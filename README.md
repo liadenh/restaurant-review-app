@@ -1,6 +1,6 @@
 # Restaurant Review Scraper
 
-A Python web scraper that extracts comprehensive restaurant information and reviews from TripAdvisor. This tool is designed to gather detailed data including ratings, reviews, contact information, and more.
+A Python web scraper that extracts comprehensive restaurant information and reviews from TripAdvisor. This tool is designed to gather detailed data including ratings, reviews, contact information, and more. I followed a tutorial and added a comprehensive logging configuration that saves all program messages to both the console (for real-time monitoring) and a scraper.log file (for persistent record-keeping) with timestamps and proper formatting.
 
 ## Features
 
